@@ -505,7 +505,7 @@
       "StyleName": "defaultButtonStyle",
       "Type": "ControlInfo"
     },
-    "Button2": {
+    "Button3": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Text",
@@ -544,7 +544,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Button2",
+      "Name": "Button3",
       "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
