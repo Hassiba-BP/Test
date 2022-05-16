@@ -1,0 +1,16 @@
+Screen1 As screen:
+
+    Label5 As label:
+        Height: =89
+        Text: ="Bonjour"
+        Width: =276
+        X: =73
+        Y: =92
+        ZIndex: =1
+
+    Button1 As button:
+        Text: ="Bouton"
+        X: =444
+        Y: =116
+        ZIndex: =2
+
