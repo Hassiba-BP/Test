@@ -314,7 +314,7 @@ HomeScreen As screen:
         TemplateSize: =93.25
         Visible: =_gallery="List"
         Width: =1024
-        Y: =183
+        Y: =184
         ZIndex: =13
 
         Image1_3 As image:
@@ -703,10 +703,4 @@ HomeScreen As screen:
         X: =570
         Y: =120
         ZIndex: =29
-
-    Button3 As button:
-        Text: ="Bouton"
-        X: =444
-        Y: =694
-        ZIndex: =30
 
