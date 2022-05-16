@@ -8,6 +8,7 @@
     "Button1_2": 68,
     "Button1_3": 69,
     "Button1_4": 13,
+    "Button2": 90,
     "ConfirmationScreen": 66,
     "CurrentStock": 58,
     "DescriptionText": 52,
@@ -91,7 +92,7 @@
     "TotalAmountText": 62
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "05/16/2022 09:21:38",
+  "HeaderLastSavedDateTimeUTC": "05/16/2022 09:52:33",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -104,12 +105,12 @@
     "tumbnailSelected@3x": "tumbnailSelected@3x.png"
   },
   "LocalResourceRootPaths": {
-    "logo@3x": "https://docserverpwaprodsfr.blob.core.windows.net/00477bf4-b477-4b7b-a7aa-c47dd45861a4-1/resource/Assets0Images0logo%25403x.png?sv=2017-04-17&sr=b&sig=HHA1jGBQgGI3Z9FjDStMSyPLSydpIGgHtnFVYngipx8%3D&spr=https&se=2022-05-17T08%3A47%3A22Z&sp=r",
-    "menu_96px": "https://docserverpwaprodsfr.blob.core.windows.net/00477bf4-b477-4b7b-a7aa-c47dd45861a4-1/resource/Assets0Images0menu_96px.png?sv=2017-04-17&sr=b&sig=HQSzULS98gSEKfugCyu8IYC%2B47RIl6b%2B83MoUpecXgw%3D&spr=https&se=2022-05-17T08%3A47%3A22Z&sp=r",
-    "menu_96px_2": "https://docserverpwaprodsfr.blob.core.windows.net/00477bf4-b477-4b7b-a7aa-c47dd45861a4-1/resource/Assets0Images0menu_96px_2.png?sv=2017-04-17&sr=b&sig=N23%2FSEWFIZjvgjhvOSUC9qYIim%2FQt7CSQvVFvpNnbis%3D&spr=https&se=2022-05-17T08%3A47%3A22Z&sp=r",
-    "Property Image": "https://docserverpwaprodsfr.blob.core.windows.net/00477bf4-b477-4b7b-a7aa-c47dd45861a4-1/resource/Assets0Images0Property+Image.png?sv=2017-04-17&sr=b&sig=Q%2F%2FG5IVaYwwe5BsqqxvsqTiBc5kUw03M9ISRcHb2fw0%3D&spr=https&se=2022-05-17T08%3A47%3A22Z&sp=r",
-    "thumbnail@3x": "https://docserverpwaprodsfr.blob.core.windows.net/00477bf4-b477-4b7b-a7aa-c47dd45861a4-1/resource/Assets0Images0thumbnail%25403x.png?sv=2017-04-17&sr=b&sig=E6yr4a0ehcPZgqUrKujT56076EApcIKFMulgCsaNbdc%3D&spr=https&se=2022-05-17T08%3A47%3A22Z&sp=r",
-    "tumbnailSelected@3x": "https://docserverpwaprodsfr.blob.core.windows.net/00477bf4-b477-4b7b-a7aa-c47dd45861a4-1/resource/Assets0Images0tumbnailSelected%25403x.png?sv=2017-04-17&sr=b&sig=VSIXl1iSnpoGwVmqG8IOZSpnQxYrsGH%2Buh68CDCxl%2FE%3D&spr=https&se=2022-05-17T08%3A47%3A22Z&sp=r"
+    "logo@3x": "https://docserverpwaprodcfr.blob.core.windows.net/b217cd31-482b-4165-a387-ec8d72b03368-1/resource/Assets0Images0logo%25403x.png?sv=2017-04-17&sr=b&sig=c5JvFnC5UQOgUTy8P69%2FzM3hRk47PDrSdDXdOnwA7hw%3D&spr=https&se=2022-05-17T10%3A00%3A36Z&sp=r",
+    "menu_96px": "https://docserverpwaprodcfr.blob.core.windows.net/b217cd31-482b-4165-a387-ec8d72b03368-1/resource/Assets0Images0menu_96px.png?sv=2017-04-17&sr=b&sig=H9riOKLvUIIq8MzMqMbRucEFqTc0Tu7bTk6jbNLVinQ%3D&spr=https&se=2022-05-17T10%3A00%3A36Z&sp=r",
+    "menu_96px_2": "https://docserverpwaprodcfr.blob.core.windows.net/b217cd31-482b-4165-a387-ec8d72b03368-1/resource/Assets0Images0menu_96px_2.png?sv=2017-04-17&sr=b&sig=OQvyqnRSETaHU1mK6napAr%2FnaoXjDhSZ1jCJ5699CHg%3D&spr=https&se=2022-05-17T10%3A00%3A36Z&sp=r",
+    "Property Image": "https://docserverpwaprodcfr.blob.core.windows.net/b217cd31-482b-4165-a387-ec8d72b03368-1/resource/Assets0Images0Property+Image.png?sv=2017-04-17&sr=b&sig=4GIo6dTxyJPxD9A%2FKXByLqJGjUcU5LMAD0hHseezpRI%3D&spr=https&se=2022-05-17T10%3A00%3A36Z&sp=r",
+    "thumbnail@3x": "https://docserverpwaprodcfr.blob.core.windows.net/b217cd31-482b-4165-a387-ec8d72b03368-1/resource/Assets0Images0thumbnail%25403x.png?sv=2017-04-17&sr=b&sig=YlQxVUyx6qDKMp%2BPgSKWnirG%2FNbY6S9pm%2FaPaWDoz%2BA%3D&spr=https&se=2022-05-17T10%3A00%3A36Z&sp=r",
+    "tumbnailSelected@3x": "https://docserverpwaprodcfr.blob.core.windows.net/b217cd31-482b-4165-a387-ec8d72b03368-1/resource/Assets0Images0tumbnailSelected%25403x.png?sv=2017-04-17&sr=b&sig=rFqSPMYw3utRBboON%2FgnUxRJbzCRnw7IGcwSx5fDJsA%3D&spr=https&se=2022-05-17T10%3A00%3A36Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -145,14 +146,14 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 6,
+    "button": 1,
     "gallery": 7,
-    "icon": 5,
-    "image": 2,
-    "label": 4,
+    "icon": 6,
+    "image": 3,
+    "label": 5,
     "rectangle": 0,
-    "text": 3,
-    "timer": 1
+    "text": 4,
+    "timer": 2
   },
   "PublishOrderIndices": {
     "AllRectangle": 9,
@@ -162,6 +163,7 @@
     "Button1_2": 63,
     "Button1_3": 64,
     "Button1_4": 12,
+    "Button2": 0,
     "ConfirmationScreen": 0,
     "CurrentStock": 54,
     "DescriptionText": 48,
@@ -257,7 +259,7 @@
   },
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.5801919,
+    "AnalysisLoadTime": 0.5557698,
     "ControlCount": {
       "button": 5,
       "gallery": 2,
@@ -271,7 +273,7 @@
       "text": 3,
       "timer": 1
     },
-    "DeserializationLoadTime": 1.4186944,
+    "DeserializationLoadTime": 1.6888084,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
