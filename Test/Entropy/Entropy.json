@@ -1,9 +1,13 @@
 {
-  "ComponentIndexes": {},
+  "ComponentIndexes": {
+    "b15cdf18-1b48-4836-84cd-9e9495c888f0": 1
+  },
   "ControlUniqueIds": {
+    "16a3097c-e8a9-42ab-9e49-c694da90be67": 98,
     "99af1565-999d-41b9-90a8-a7841d5af40b": 91,
     "AllRectangle": 36,
     "App": 1,
+    "b15cdf18-1b48-4836-84cd-9e9495c888f0": 97,
     "Button1": 10,
     "Button1_1": 89,
     "Button1_2": 5,
@@ -95,7 +99,7 @@
     "TotalAmountText": 87
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "05/16/2022 14:28:32",
+  "HeaderLastSavedDateTimeUTC": "05/16/2022 14:34:27",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -159,9 +163,11 @@
     "timer": 3
   },
   "PublishOrderIndices": {
+    "16a3097c-e8a9-42ab-9e49-c694da90be67": 0,
     "99af1565-999d-41b9-90a8-a7841d5af40b": 0,
     "AllRectangle": 9,
     "App": 0,
+    "b15cdf18-1b48-4836-84cd-9e9495c888f0": 0,
     "Button1": 81,
     "Button1_1": 60,
     "Button1_2": 63,

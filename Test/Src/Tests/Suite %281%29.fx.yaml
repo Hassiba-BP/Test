@@ -1,0 +1,33 @@
+"'b15cdf18-1b48-4836-84cd-9e9495c888f0' As TestSuite":
+    Description: =""
+    DisplayName: ="Suite (1)"
+
+    "'16a3097c-e8a9-42ab-9e49-c694da90be67' As TestCase":
+        Description: =""
+        DisplayName: ="Casse"
+
+        Step1 As TestStep:
+            Description: ="Sélectionner 'TextBox1_5' sur la ligne 1 dans 'ListGallery'"
+            Screen: =HomeScreen
+            Value: =Select('ListGallery', 1, 'TextBox1_5')
+
+        Step5 As TestStep:
+            Description: ="UPDATE"
+            Value: |
+                =SetProperty('OrderQuantityText'.Text,Text(Value('IdealStock'.Text)-10))
+
+        Step2 As TestStep:
+            Description: ="Définir 'OrderQuantityText'.Text sur ""165"""
+            Screen: =ProductDetailsScreen
+            Value: =SetProperty('OrderQuantityText'.Text, "165")
+
+        Step3 As TestStep:
+            Description: ="Sélectionner 'Button1_1'"
+            Screen: =ProductDetailsScreen
+            Value: =Select('Button1_1')
+
+        Step4 As TestStep:
+            Description: ="Sélectionner 'Button1_3'"
+            Screen: =ConfirmationScreen
+            Value: =Select('Button1_3')
+
