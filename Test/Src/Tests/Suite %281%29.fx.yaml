@@ -9,25 +9,25 @@
         Step1 As TestStep:
             Description: ="Sélectionner 'TextBox1_5' sur la ligne 1 dans 'ListGallery'"
             Screen: =HomeScreen
-            Value: =Select('ListGallery', 1, 'TextBox1_5')
+            Value: =Select(ListGallery, 1, TextBox1_5)
 
         Step5 As TestStep:
             Description: ="UPDATE"
             Value: |
-                =SetProperty('OrderQuantityText'.Text,Text(Value('IdealStock'.Text)-10))
+                =SetProperty(OrderQuantityText.Text,Text(Value(IdealStock.Text)-10))
 
         Step2 As TestStep:
             Description: ="Définir 'OrderQuantityText'.Text sur ""165"""
             Screen: =ProductDetailsScreen
-            Value: =SetProperty('OrderQuantityText'.Text, "165")
+            Value: =SetProperty(OrderQuantityText.Text, "165")
 
         Step3 As TestStep:
             Description: ="Sélectionner 'Button1_1'"
             Screen: =ProductDetailsScreen
-            Value: =Select('Button1_1')
+            Value: =Select(Button1_1)
 
         Step4 As TestStep:
             Description: ="Sélectionner 'Button1_3'"
             Screen: =ConfirmationScreen
-            Value: =Select('Button1_3')
+            Value: =Select(Button1_3)
 
