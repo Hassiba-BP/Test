@@ -706,7 +706,7 @@ HomeScreen As screen:
 
     Button3 As button:
         Text: ="Bouton"
-        X: =269
-        Y: =487
+        X: =444
+        Y: =694
         ZIndex: =30
 
