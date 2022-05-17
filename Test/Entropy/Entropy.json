@@ -1,22 +1,20 @@
 {
   "ComponentIndexes": {
-    "32745e05-8747-41e8-a760-688593e21d0d": 1
+    "bf49227a-6ab9-4448-8b2b-03da36bb545c": 1
   },
   "ControlUniqueIds": {
-    "32745e05-8747-41e8-a760-688593e21d0d": 93,
-    "771944a7-c0a9-445a-8046-69abf824fdfc": 94,
-    "99af1565-999d-41b9-90a8-a7841d5af40b": 91,
     "AllRectangle": 11,
     "App": 1,
+    "bf49227a-6ab9-4448-8b2b-03da36bb545c": 95,
     "Button1": 89,
     "Button1_1": 85,
     "Button1_2": 61,
     "Button1_3": 62,
     "Button1_4": 13,
-    "c6a43bdb-3538-4327-ba6a-c232f66e9b65": 92,
     "ConfirmationScreen": 59,
     "CurrentStock": 79,
     "DescriptionText": 73,
+    "e9e2eb22-8d6c-4386-a8ad-eab44f0be3d9": 96,
     "galleryTemplate1": 33,
     "galleryTemplate1_1": 25,
     "GridGallery": 24,
@@ -100,7 +98,7 @@
   },
   "DoesTestStepsMetadataExist": true,
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "05/17/2022 08:22:38",
+  "HeaderLastSavedDateTimeUTC": "05/17/2022 09:12:53",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -113,12 +111,12 @@
     "tumbnailSelected@3x": "0006.png"
   },
   "LocalResourceRootPaths": {
-    "logo@3x": "https://docserverpwaprodcfr.blob.core.windows.net/9b373666-dd0f-4041-ae32-ae5847243eea-1/resource/Assets0Images00001.png?sv=2017-04-17&sr=b&sig=bObCHJiM0OQJk8dU5yvcWz6ghjcYlu8APFhzY8iyuYQ%3D&spr=https&se=2022-05-18T08%3A33%3A07Z&sp=r",
-    "menu_96px": "https://docserverpwaprodcfr.blob.core.windows.net/9b373666-dd0f-4041-ae32-ae5847243eea-1/resource/Assets0Images00002.png?sv=2017-04-17&sr=b&sig=sxk9Net7iW3VIrn%2F%2BkAasS8f12GC0eMTg3S6AZWROGg%3D&spr=https&se=2022-05-18T08%3A33%3A07Z&sp=r",
-    "menu_96px_2": "https://docserverpwaprodcfr.blob.core.windows.net/9b373666-dd0f-4041-ae32-ae5847243eea-1/resource/Assets0Images00003.png?sv=2017-04-17&sr=b&sig=uG8BoKYNj7OvLyeF4ixZj%2FaS82b9qzSmiLd7AbylC2s%3D&spr=https&se=2022-05-18T08%3A33%3A07Z&sp=r",
-    "Property Image": "https://docserverpwaprodcfr.blob.core.windows.net/9b373666-dd0f-4041-ae32-ae5847243eea-1/resource/Assets0Images00004.png?sv=2017-04-17&sr=b&sig=DmFx0gSs1%2FCXgfrfhjwj904vsea39uU7XRclrg5a8FY%3D&spr=https&se=2022-05-18T08%3A33%3A07Z&sp=r",
-    "thumbnail@3x": "https://docserverpwaprodcfr.blob.core.windows.net/9b373666-dd0f-4041-ae32-ae5847243eea-1/resource/Assets0Images00005.png?sv=2017-04-17&sr=b&sig=LyOG0v74I%2Bwqa%2B%2Bk5%2FQ%2FXbTSR6UHVUpI3w0TR94nmMk%3D&spr=https&se=2022-05-18T08%3A33%3A07Z&sp=r",
-    "tumbnailSelected@3x": "https://docserverpwaprodcfr.blob.core.windows.net/9b373666-dd0f-4041-ae32-ae5847243eea-1/resource/Assets0Images00006.png?sv=2017-04-17&sr=b&sig=KDDDBsSu2KMgI3T984Wb9lUKkBt65ZkMWBuItyhAe9k%3D&spr=https&se=2022-05-18T08%3A33%3A07Z&sp=r"
+    "logo@3x": "https://docserverpwaprodcfr.blob.core.windows.net/0902486f-cf98-454c-9f7f-a93f063ef766-1/resource/Assets0Images00001.png?sv=2017-04-17&sr=b&sig=NKEtpfYV17oyCwdu6CSCjVBvtEJZ4hPOUyDImmDaxuQ%3D&spr=https&se=2022-05-18T09%3A24%3A32Z&sp=r",
+    "menu_96px": "https://docserverpwaprodcfr.blob.core.windows.net/0902486f-cf98-454c-9f7f-a93f063ef766-1/resource/Assets0Images00002.png?sv=2017-04-17&sr=b&sig=dj0ekcJrDx24%2BPLrt0wj6YH7XEfoxFYyx5B6reiIFK0%3D&spr=https&se=2022-05-18T09%3A24%3A32Z&sp=r",
+    "menu_96px_2": "https://docserverpwaprodcfr.blob.core.windows.net/0902486f-cf98-454c-9f7f-a93f063ef766-1/resource/Assets0Images00003.png?sv=2017-04-17&sr=b&sig=KVdehEQu%2F2II0KXkxpZToDcic%2BWxBHePfKIYqBJPdT4%3D&spr=https&se=2022-05-18T09%3A24%3A32Z&sp=r",
+    "Property Image": "https://docserverpwaprodcfr.blob.core.windows.net/0902486f-cf98-454c-9f7f-a93f063ef766-1/resource/Assets0Images00004.png?sv=2017-04-17&sr=b&sig=kDQ7UToL%2B5YzCi6LKS4iuPXbf%2BOTEZKU6J9GnFhkNhQ%3D&spr=https&se=2022-05-18T09%3A24%3A32Z&sp=r",
+    "thumbnail@3x": "https://docserverpwaprodcfr.blob.core.windows.net/0902486f-cf98-454c-9f7f-a93f063ef766-1/resource/Assets0Images00005.png?sv=2017-04-17&sr=b&sig=OYQURBdQzWKCx2dxU33OgF02%2F2ogLBPGJcODqUJd3hA%3D&spr=https&se=2022-05-18T09%3A24%3A32Z&sp=r",
+    "tumbnailSelected@3x": "https://docserverpwaprodcfr.blob.core.windows.net/0902486f-cf98-454c-9f7f-a93f063ef766-1/resource/Assets0Images00006.png?sv=2017-04-17&sr=b&sig=jyff09b6hyluJHg08GQaMF7rg0ai72wpny82mpbVW6g%3D&spr=https&se=2022-05-18T09%3A24%3A32Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -164,20 +162,18 @@
     "timer": 1
   },
   "PublishOrderIndices": {
-    "32745e05-8747-41e8-a760-688593e21d0d": 0,
-    "771944a7-c0a9-445a-8046-69abf824fdfc": 0,
-    "99af1565-999d-41b9-90a8-a7841d5af40b": 0,
     "AllRectangle": 9,
     "App": 0,
+    "bf49227a-6ab9-4448-8b2b-03da36bb545c": 0,
     "Button1": 81,
     "Button1_1": 60,
     "Button1_2": 63,
     "Button1_3": 64,
     "Button1_4": 12,
-    "c6a43bdb-3538-4327-ba6a-c232f66e9b65": 0,
     "ConfirmationScreen": 2,
     "CurrentStock": 54,
     "DescriptionText": 48,
+    "e9e2eb22-8d6c-4386-a8ad-eab44f0be3d9": 0,
     "galleryTemplate1": 32,
     "galleryTemplate1_1": 24,
     "GridGallery": 23,
@@ -272,7 +268,7 @@
   },
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.7538871,
+    "AnalysisLoadTime": 0.7066246,
     "ControlCount": {
       "button": 5,
       "gallery": 2,
@@ -288,7 +284,7 @@
       "text": 3,
       "timer": 1
     },
-    "DeserializationLoadTime": 1.9141552,
+    "DeserializationLoadTime": 2.3140706,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
