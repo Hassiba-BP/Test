@@ -5,7 +5,14 @@ HomeScreen As screen:
         =Set(_gallery,"List");
         Set(_StoreInventory,"All");
         UpdateContext({searchboxreset:true});
-        UpdateContext({searchboxreset:false})
+        UpdateContext({searchboxreset:false});
+        
+        If(CountRows(ProductCollect)=0,
+        
+        ClearCollect(ProductCollect, AddColumns(Product, "Stock", Round(DefaultSellingQuantity*Rand()*10,0)));
+        ClearCollect(Products, AddColumns(ProductCollect, "SortStock", (DefaultSellingQuantity/Stock)*100))
+        
+        )
     Width: =Max(App.Width, App.DesignWidth)
 
     Group2 As group:

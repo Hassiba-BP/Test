@@ -5,7 +5,7 @@
   "ControlUniqueIds": {
     "AllRectangle": 11,
     "App": 1,
-    "bf49227a-6ab9-4448-8b2b-03da36bb545c": 95,
+    "bf49227a-6ab9-4448-8b2b-03da36bb545c": 91,
     "Button1": 89,
     "Button1_1": 85,
     "Button1_2": 61,
@@ -14,7 +14,7 @@
     "ConfirmationScreen": 59,
     "CurrentStock": 79,
     "DescriptionText": 73,
-    "e9e2eb22-8d6c-4386-a8ad-eab44f0be3d9": 96,
+    "e9e2eb22-8d6c-4386-a8ad-eab44f0be3d9": 92,
     "galleryTemplate1": 33,
     "galleryTemplate1_1": 25,
     "GridGallery": 24,
@@ -98,7 +98,7 @@
   },
   "DoesTestStepsMetadataExist": true,
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "05/17/2022 09:12:53",
+  "HeaderLastSavedDateTimeUTC": "05/17/2022 09:16:51",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -111,12 +111,12 @@
     "tumbnailSelected@3x": "0006.png"
   },
   "LocalResourceRootPaths": {
-    "logo@3x": "https://docserverpwaprodcfr.blob.core.windows.net/0902486f-cf98-454c-9f7f-a93f063ef766-1/resource/Assets0Images00001.png?sv=2017-04-17&sr=b&sig=NKEtpfYV17oyCwdu6CSCjVBvtEJZ4hPOUyDImmDaxuQ%3D&spr=https&se=2022-05-18T09%3A24%3A32Z&sp=r",
-    "menu_96px": "https://docserverpwaprodcfr.blob.core.windows.net/0902486f-cf98-454c-9f7f-a93f063ef766-1/resource/Assets0Images00002.png?sv=2017-04-17&sr=b&sig=dj0ekcJrDx24%2BPLrt0wj6YH7XEfoxFYyx5B6reiIFK0%3D&spr=https&se=2022-05-18T09%3A24%3A32Z&sp=r",
-    "menu_96px_2": "https://docserverpwaprodcfr.blob.core.windows.net/0902486f-cf98-454c-9f7f-a93f063ef766-1/resource/Assets0Images00003.png?sv=2017-04-17&sr=b&sig=KVdehEQu%2F2II0KXkxpZToDcic%2BWxBHePfKIYqBJPdT4%3D&spr=https&se=2022-05-18T09%3A24%3A32Z&sp=r",
-    "Property Image": "https://docserverpwaprodcfr.blob.core.windows.net/0902486f-cf98-454c-9f7f-a93f063ef766-1/resource/Assets0Images00004.png?sv=2017-04-17&sr=b&sig=kDQ7UToL%2B5YzCi6LKS4iuPXbf%2BOTEZKU6J9GnFhkNhQ%3D&spr=https&se=2022-05-18T09%3A24%3A32Z&sp=r",
-    "thumbnail@3x": "https://docserverpwaprodcfr.blob.core.windows.net/0902486f-cf98-454c-9f7f-a93f063ef766-1/resource/Assets0Images00005.png?sv=2017-04-17&sr=b&sig=OYQURBdQzWKCx2dxU33OgF02%2F2ogLBPGJcODqUJd3hA%3D&spr=https&se=2022-05-18T09%3A24%3A32Z&sp=r",
-    "tumbnailSelected@3x": "https://docserverpwaprodcfr.blob.core.windows.net/0902486f-cf98-454c-9f7f-a93f063ef766-1/resource/Assets0Images00006.png?sv=2017-04-17&sr=b&sig=jyff09b6hyluJHg08GQaMF7rg0ai72wpny82mpbVW6g%3D&spr=https&se=2022-05-18T09%3A24%3A32Z&sp=r"
+    "logo@3x": "https://docserverpwaprodcfr.blob.core.windows.net/493d8957-b76e-4dda-a1e3-236e39251cd8-1/resource/Assets0Images00001.png?sv=2017-04-17&sr=b&sig=ey670VKlYfxa45YpMOIOKBR4kHIN5qEdvt7s3LG9e6c%3D&spr=https&se=2022-05-18T09%3A28%3A41Z&sp=r",
+    "menu_96px": "https://docserverpwaprodcfr.blob.core.windows.net/493d8957-b76e-4dda-a1e3-236e39251cd8-1/resource/Assets0Images00002.png?sv=2017-04-17&sr=b&sig=19bcenZ30y94mI5jQdN5ECoPq%2FhpbeaUz40GY%2F8EOBM%3D&spr=https&se=2022-05-18T09%3A28%3A41Z&sp=r",
+    "menu_96px_2": "https://docserverpwaprodcfr.blob.core.windows.net/493d8957-b76e-4dda-a1e3-236e39251cd8-1/resource/Assets0Images00003.png?sv=2017-04-17&sr=b&sig=AER6v3Ye8IYqlYcxEOQETD8wZA6agVZSA9u6GpKzxM0%3D&spr=https&se=2022-05-18T09%3A28%3A41Z&sp=r",
+    "Property Image": "https://docserverpwaprodcfr.blob.core.windows.net/493d8957-b76e-4dda-a1e3-236e39251cd8-1/resource/Assets0Images00004.png?sv=2017-04-17&sr=b&sig=%2BbcK98tTlb6fp1gXLWS1Px5rYiS%2B%2B6cyz0EfPgc7v1k%3D&spr=https&se=2022-05-18T09%3A28%3A41Z&sp=r",
+    "thumbnail@3x": "https://docserverpwaprodcfr.blob.core.windows.net/493d8957-b76e-4dda-a1e3-236e39251cd8-1/resource/Assets0Images00005.png?sv=2017-04-17&sr=b&sig=OfiTxTxmyEHOU4wkKkwQbakWC2ZGMKXULz62%2F86wYgw%3D&spr=https&se=2022-05-18T09%3A28%3A41Z&sp=r",
+    "tumbnailSelected@3x": "https://docserverpwaprodcfr.blob.core.windows.net/493d8957-b76e-4dda-a1e3-236e39251cd8-1/resource/Assets0Images00006.png?sv=2017-04-17&sr=b&sig=DpC%2FYCnHNmJMItZUmtcxeJr2iw3oaU3HpjeYmdcnQzQ%3D&spr=https&se=2022-05-18T09%3A28%3A41Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -268,7 +268,7 @@
   },
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.7066246,
+    "AnalysisLoadTime": 0.5435031,
     "ControlCount": {
       "button": 5,
       "gallery": 2,
@@ -279,12 +279,12 @@
       "label": 42,
       "rectangle": 12,
       "screen": 5,
-      "TestCase": 2,
-      "TestSuite": 2,
+      "TestCase": 1,
+      "TestSuite": 1,
       "text": 3,
       "timer": 1
     },
-    "DeserializationLoadTime": 2.3140706,
+    "DeserializationLoadTime": 1.4992556,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
